@@ -6,7 +6,7 @@
 #include <ace/Log_Msg.h>
 
 #include "Logger/logging_handler.h"
-#include "Logger/logging_server.h"
+#include "logging_server.h"
 
 class Iterative_Logging_Server : public Logging_Server {
   protected:
